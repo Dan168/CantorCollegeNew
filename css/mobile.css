@@ -16,7 +16,7 @@ footer {
 header {
   /* background-color: #263248; */
   background-image: url("../images/banner.png");
-  height: 150px;
+  height: 200px;
   background-size: cover;
 }
 header h1 {
