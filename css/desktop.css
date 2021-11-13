@@ -13,17 +13,8 @@ header {
   height: 300px;
   padding-left: 0;
 }
-header h1 {
-  color: #fff;
-  font-size: 4rem;
-  width: 100%;
-  text-align: left;
-  padding: 5px;
-  display: inline;
-}
 nav li a:hover {
-  color: #e8ff7f;
-  text-decoration: underline;
+  color: #f2a903;
 }
 nav ul {
   padding-left: 0;
@@ -34,7 +25,7 @@ nav ul li {
   padding-left: 10px;
   padding-right: 10px;
   border: none;
-  border-left: 1px solid #000;
+  border-left: 1px #000;
 }
 nav li:first-child {
   border-left: none;
